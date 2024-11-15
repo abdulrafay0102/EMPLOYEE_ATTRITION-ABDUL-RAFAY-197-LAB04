@@ -1,0 +1,111 @@
+Employee ID,Age,Gender,Position,Years at Company,Monthly Salary ($),Performance Rating,Training Hours,Satisfaction Level (%),Attrition Status
+1001,30,Male,Engineer,5,6000,4,20,75,Active
+1002,45,Female,Manager,10,10000,5,15,80,Active
+1003,27,Male,Technician,2,4500,3,10,65,At Risk
+1004,38,Female,Engineer,7,6800,4,25,85,Active
+1005,50,Male,Analyst,12,8000,2,5,55,Left
+1006,55,Female,Analyst,9,4294,5,25,56,At Risk
+1007,45,Female,Engineer,14,9209,4,6,87,At Risk
+1008,54,Female,Analyst,5,8114,3,25,51,Left
+1009,32,Male,Technician,8,5723,3,7,87,Left
+1010,31,Male,Analyst,13,10854,3,10,71,At Risk
+1011,28,Male,Engineer,3,11109,3,27,67,At Risk
+1012,26,Female,Technician,10,7957,3,26,93,Left
+1013,58,Female,Engineer,10,9862,3,23,73,Active
+1014,53,Male,Analyst,10,5674,1,22,92,Active
+1015,42,Female,Analyst,7,10924,4,28,76,At Risk
+1016,59,Male,Manager,5,9421,2,20,85,Active
+1017,35,Female,Manager,14,6035,4,9,93,At Risk
+1018,51,Male,Manager,1,4034,3,22,88,Left
+1019,38,Female,Technician,2,5687,5,24,77,Active
+1020,52,Male,Technician,8,6078,1,20,76,Active
+1021,22,Female,Manager,6,9336,3,28,70,Left
+1022,44,Female,Technician,14,4791,1,27,82,Left
+1023,26,Male,Manager,4,4610,3,6,64,Active
+1024,34,Male,Analyst,12,6214,3,6,66,Active
+1025,57,Male,Analyst,11,5175,1,16,89,Left
+1026,41,Female,Engineer,8,10207,3,21,87,At Risk
+1027,46,Female,Technician,1,6896,2,14,80,Active
+1028,42,Male,Analyst,8,8566,1,23,56,At Risk
+1029,51,Male,Manager,6,11347,4,25,58,At Risk
+1030,49,Female,Technician,7,9832,1,12,69,Active
+1031,32,Female,Technician,14,9444,3,30,81,Active
+1032,43,Male,Technician,10,5539,3,20,55,Left
+1033,42,Male,Technician,7,7222,4,26,75,At Risk
+1034,53,Female,Technician,13,11405,4,25,98,Left
+1035,24,Female,Manager,1,4518,2,11,76,Left
+1036,29,Female,Engineer,11,5701,2,16,67,At Risk
+1037,58,Male,Manager,6,4470,3,5,57,Active
+1038,58,Male,Engineer,10,8461,2,11,61,Active
+1039,43,Male,Engineer,10,4023,4,25,76,Left
+1040,27,Male,Analyst,11,4679,3,10,83,Active
+1041,24,Female,Engineer,14,4606,2,16,85,Left
+1042,44,Female,Manager,4,11663,2,7,65,At Risk
+1043,25,Male,Analyst,1,9773,4,21,71,At Risk
+1044,52,Male,Engineer,4,9131,4,21,57,Left
+1045,57,Male,Analyst,6,6613,2,16,63,At Risk
+1046,56,Female,Manager,3,8056,2,24,94,Left
+1047,41,Male,Manager,5,10799,5,8,63,At Risk
+1048,51,Female,Manager,15,9462,5,28,75,Active
+1049,58,Male,Analyst,2,11784,5,17,69,Left
+1050,49,Male,Engineer,9,4527,2,29,96,At Risk
+1051,27,Female,Manager,6,7396,3,9,55,At Risk
+1052,24,Female,Analyst,3,6239,1,29,53,At Risk
+1053,24,Male,Engineer,1,11616,5,19,59,Left
+1054,56,Male,Engineer,11,7913,3,28,60,At Risk
+1055,45,Male,Analyst,6,7418,1,19,87,At Risk
+1056,57,Male,Technician,5,5738,1,21,52,Active
+1057,22,Male,Engineer,7,4741,1,17,50,At Risk
+1058,58,Female,Manager,11,9843,1,28,88,At Risk
+1059,47,Male,Manager,6,7429,5,13,100,Left
+1060,35,Female,Engineer,6,11359,2,27,92,Left
+1061,30,Female,Engineer,7,6572,5,8,89,Left
+1062,45,Male,Analyst,14,6333,2,24,68,At Risk
+1063,26,Male,Analyst,7,5182,2,10,82,Active
+1064,57,Male,Manager,13,5828,3,25,80,Left
+1065,39,Male,Technician,12,7347,3,21,59,Active
+1066,22,Male,Technician,4,4243,5,20,77,Active
+1067,29,Male,Technician,11,6670,3,30,95,Left
+1068,49,Male,Analyst,10,6684,4,19,87,Active
+1069,54,Female,Analyst,15,6283,4,26,73,Left
+1070,27,Male,Technician,5,5101,3,23,92,Left
+1071,36,Male,Analyst,10,8835,4,18,51,At Risk
+1072,43,Male,Engineer,14,5473,4,24,75,Active
+1073,31,Male,Technician,10,11747,1,17,53,Active
+1074,28,Male,Analyst,13,5857,1,5,73,Active
+1075,27,Male,Manager,11,9531,4,27,50,At Risk
+1076,44,Male,Technician,8,10429,3,12,98,Left
+1077,36,Female,Analyst,15,7374,5,25,80,Left
+1078,24,Male,Analyst,13,5086,3,14,60,Left
+1079,27,Female,Manager,7,8681,2,15,81,Left
+1080,56,Female,Engineer,9,9164,3,14,77,At Risk
+1081,49,Male,Manager,6,8208,1,12,68,At Risk
+1082,40,Male,Engineer,5,5188,1,10,60,At Risk
+1083,23,Male,Manager,10,6875,2,12,77,Active
+1084,33,Female,Manager,2,8723,4,12,85,At Risk
+1085,41,Female,Technician,3,6596,1,15,87,At Risk
+1086,51,Female,Analyst,10,5281,2,25,66,Left
+1087,57,Female,Technician,11,6427,3,6,76,Left
+1088,45,Female,Technician,10,7829,1,20,96,At Risk
+1089,43,Male,Manager,9,9240,1,28,64,Left
+1090,52,Male,Analyst,15,8929,5,26,60,Active
+1091,29,Male,Engineer,4,6319,5,12,67,Active
+1092,53,Female,Engineer,8,4809,5,17,51,At Risk
+1093,38,Male,Engineer,13,11671,4,28,60,Left
+1094,42,Male,Analyst,13,11372,5,20,60,Active
+1095,24,Male,Engineer,15,4536,2,30,53,Left
+1096,23,Male,Technician,10,8395,2,24,93,At Risk
+1097,43,Female,Technician,4,8590,3,13,75,Active
+1098,60,Female,Engineer,13,7246,5,9,91,At Risk
+1099,36,Female,Technician,13,5732,5,8,80,Left
+1100,60,Female,Technician,2,5942,2,21,60,Active
+1101,22,Female,Engineer,13,6414,4,9,83,At Risk
+1102,47,Female,Manager,6,4018,2,21,51,At Risk
+1103,32,Male,Analyst,6,4889,1,27,51,Active
+1104,42,Male,Engineer,4,11586,1,13,51,Active
+1105,44,Female,Technician,11,6209,5,30,91,Left
+1106,57,Female,Engineer,9,4689,1,15,97,Active
+1107,45,Male,Engineer,12,9281,4,19,81,Left
+1108,57,Female,Analyst,7,7684,5,16,59,Left
+1109,24,Female,Technician,12,8488,4,16,56,Left
+1110,57,Female,Manager,11,4758,1,14,73,Left
